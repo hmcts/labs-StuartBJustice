@@ -1,0 +1,12 @@
+apiVersion: v2
+appVersion: "1.0"
+description: A Helm chart for labs-StuartBJustice App
+name: labs-StuartBJustice
+home: https://github.com/hmcts/labs-StuartBJustice
+version: 0.0.1
+maintainers:
+  - name: HMCTS labs team
+dependencies:
+  - name: java
+    version: 4.0.6
+    repository: 'https://hmctspublic.azurecr.io/helm/v1/repo/'
