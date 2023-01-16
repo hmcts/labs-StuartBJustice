@@ -1,4 +1,4 @@
-package uk.gov.hmcts.labs.StuartBJustice.smoketests;
+package uk.gov.hmcts.labs.stuartbjustice.smoketests;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.PropertySource;

@@ -1,4 +1,4 @@
-package uk.gov.hmcts.labs.StuartBJustice.config;
+package uk.gov.hmcts.labs.stuartbjustice.config;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

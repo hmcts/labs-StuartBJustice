@@ -1,4 +1,4 @@
-package uk.gov.hmcts.labs.StuartBJustice;
+package uk.gov.hmcts.labs.stuartbjustice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

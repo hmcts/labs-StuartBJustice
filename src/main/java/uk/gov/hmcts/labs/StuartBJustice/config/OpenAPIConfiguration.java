@@ -1,4 +1,4 @@
-package uk.gov.hmcts.labs.StuartBJustice.config;
+package uk.gov.hmcts.labs.stuartbjustice.config;
 
 import io.swagger.v3.oas.models.ExternalDocumentation;
 import io.swagger.v3.oas.models.OpenAPI;

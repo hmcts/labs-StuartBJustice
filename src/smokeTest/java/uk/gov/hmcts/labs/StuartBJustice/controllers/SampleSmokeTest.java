@@ -1,4 +1,4 @@
-package uk.gov.hmcts.labs.StuartBJustice.controllers;
+package uk.gov.hmcts.labs.stuartbjustice.controllers;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
